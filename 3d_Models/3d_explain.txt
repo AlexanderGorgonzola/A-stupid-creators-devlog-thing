@@ -1,2 +1,5 @@
   Although the game I'm making is going to be 2d (in gamemaker so duh), I'm creating 3d models of any significant characters, as it'll
   Allow me to pose and trace the models for consistent looks (I kinda suck at drawing :D)
+
+feel free to download these files to look at them, as thats kinda the point. If you ever want
+to use any of these designs for something, make sure to credit me for them.
